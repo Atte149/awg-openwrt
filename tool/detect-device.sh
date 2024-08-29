@@ -1,7 +1,7 @@
 #!/bin/sh
 #setup
 target="ramips"
-subtarget="mt7621"
+subtarget="mt76x8"
 tag="23.05.4"
 
 #read info
